@@ -1,22 +1,22 @@
-# 🍊 CapybaraPR Studio
-
 <div align="center">
 
-```
-   (\_/)
-  ( •_•)    ██████╗  █████╗ ██████╗ ██╗   ██╗██████╗  █████╗ ██████╗  █████╗ ██████╗ ██████╗ 
- / >🍊     ██╔════╝ ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-/     \    ██║      ███████║██████╔╝ ╚████╔╝ ██████╔╝███████║██████╔╝███████║██████╔╝██████╔╝
-(_______)  ██║      ██╔══██║██╔═══╝   ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗██╔══██║██╔═══╝ ██╔══██╗
-           ╚██████╗ ██║  ██║██║        ██║   ██████╔╝██║  ██║██████╔╝██║  ██║██║     ██║  ██║
-            ╚═════╝ ╚═╝  ╚═╝╚═╝        ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+<img src="./avatar.png" width="140" height="140" alt="CapybaraPR Logo" style="border-radius: 24px;" />
 
-                   [ High-Performance Game Dev Studio & Server Solutions ]
-```
+# 🍊 CapybaraPR
 
-[![Discord](https://img.shields.io/badge/Discord-CapybaraPR-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3AmTDycge3)
-[![Framework](https://img.shields.io/badge/EXILED-SCP%3ASL-orange?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/CapybaraPR/CapyLib)
-[![Security](https://img.shields.io/badge/Security-SSH%20RSA%202048-blue?style=for-the-badge&logo=ssh&logoColor=white)](https://github.com/CapybaraPR/CapyLib)
+### *High-Performance Game Development & Server Frameworks for SCP: Secret Laboratory*
+
+<p align="center">
+  <a href="https://discord.gg/3AmTDycge3">
+    <img src="https://img.shields.io/badge/Discord-CapybaraPR-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/CapybaraPR/CapyLib">
+    <img src="https://img.shields.io/badge/EXILED-SCP%3ASL-orange?style=for-the-badge&logo=csharp&logoColor=white" alt="EXILED" />
+  </a>
+  <a href="https://github.com/CapybaraPR/CapyLib">
+    <img src="https://img.shields.io/badge/Security-SSH%20RSA%202048-blue?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH Security" />
+  </a>
+</p>
 
 </div>
 
@@ -32,10 +32,10 @@
 
 ### 🎮 Наши игровые серверы
 
-| Сервер | Описание | Особенности |
+| Сервер | Режим | Описание |
 | :--- | :--- | :--- |
-| **NoRules (NR)** | Динамичный классический режим без жестких ограничений | Высокий темп игры, оптимизированный сетевой код, уникальный арсенал и кастомные роли. |
-| **MediumRP (MRP)** | Атмосферный ролевой сервер | Глубокое погружение, проработанные правила взаимодействия, уникальные фракции и кастомный HUD. |
+| ⚡ **NoRules (NR)** | *Classic NoRules* | Динамичный геймплей без жестких ограничений, оптимизированный сетевой код, кастомные предметы и роли. |
+| 🎭 **MediumRP (MRP)** | *Roleplay* | Атмосферный ролевой сервер с глубоким погружением, проработанными фракциями и кастомным интерфейсом. |
 
 ---
 
@@ -66,5 +66,8 @@
 ### 🍊 Присоединяйтесь к нашему сообществу
 [![Присоединиться к Discord](https://img.shields.io/badge/Присоединиться_к_нашему_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3AmTDycge3)
 
-© 2026 CapybaraPR. All rights reserved.
+<br/>
+
+<sub>© 2026 CapybaraPR. All rights reserved.</sub>
+
 </div>
