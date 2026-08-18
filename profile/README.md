@@ -10,7 +10,7 @@
   <a href="https://discord.gg/3AmTDycge3">
     <img src="https://img.shields.io/badge/Discord-CapybaraPR-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="[https://github.com/ExMod-Team/EXILED">
+  <a href="https://github.com/ExMod-Team/EXILED">
     <img src="https://img.shields.io/badge/EXILED-SCP%3ASL-orange?style=for-the-badge&logo=csharp&logoColor=white" alt="EXILED" />
   </a>
   <a href="https://github.com/CapybaraPR/CapyLib">
