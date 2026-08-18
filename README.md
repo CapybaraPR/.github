@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./avatar.png" width="140" height="140" alt="CapybaraPR Logo" style="border-radius: 24px;" />
+<img src="https://raw.githubusercontent.com/CapybaraPR/.github/main/avatar.png" width="130" height="130" alt="CapybaraPR Logo" style="border-radius: 50%;" />
 
 # 🍊 CapybaraPR
 
